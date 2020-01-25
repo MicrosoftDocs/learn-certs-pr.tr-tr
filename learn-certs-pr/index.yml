@@ -91,7 +91,7 @@ resourcesSection:
   items:
     - title: Bir Microsoft Öðrenim Ortaðý bulun
       summary: Dünya çapýndaki iþ ortaðý aðýmýz, Microsoft teknolojilerinde esnek, çözüm tabanlý, özelleþtirilmiþ eðitim sunar.
-      url: https://www.microsoft.com/en-us/learning/partners.aspx
+      url: https://www.microsoft.com/learning/partners.aspx
     - title: Sertifika ve sýnav desteði
       summary: Destek forumlarý aracýlýðýyla yardým alýn. Bir forum moderatörü Pazartesi-Cuma bir iþ günü içinde yanýt verecektir.
       url: /learn/certifications/help
@@ -105,7 +105,7 @@ statisticsSection:
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
     iframeTitle: Microsoft Sertifikalarý
-    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: Microsoft Sertifikalarýnýn Faydalarý
     summary: Bir sertifika aldýktan sonra Microsoft Sertifikalý teknoloji uzmanlarýnýn %23'ü %20 maaþ artýþý aldýklarýný bildirdi. Dahasý, hýzla yükselmelerini saðlayarak sertifikalý çalýþanlara genellikle gruplarý denetleme görevi verilir. 2017 Pearson VUE Sertifika Deðeri resmi raporu.
   items:
