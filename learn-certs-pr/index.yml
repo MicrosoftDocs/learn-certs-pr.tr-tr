@@ -1,120 +1,120 @@
 ### YamlMime:CertificationHome
 
-title: Microsoft Sertifikalarý
-summary: Bugünün teknik kurallarý ve gereksinimlerine nasýl ayak uyduracaðýnýzý gösteren sertifikalar kazanýn. Sertifika yollarýný bulmak için bir iþ rolü seçin.
+title: Microsoft Certifications
+summary: Bugünün teknik kuralları ve gereksinimlerine nasıl ayak uyduracağınızı gösteren sertifikalar kazanın. Sertifika yollarını bulmak için bir iş rolü seçin.
 
 roles:
   - name: developer
-    summary: Geliþtiriciler bulut çözümlerini tasarlar, oluþturur, test eder ve korur.
+    summary: Geliştiriciler bulut çözümlerini tasarlar, oluşturur, test eder ve korur.
     url: /learn/certifications/roles/developer
   - name: administrator
     summary: Yöneticiler Microsoft çözümlerini uygular, izler ve korur.
     url: /learn/certifications/roles/administrator
   - name: solution-architect
-    summary: Çözüm Mimarlarý bilgisayar, að, depolama, güvenlik konusunda uzmanlýða sahiptir.
+    summary: Solutions Architects bilgisayar, ağ, depolama, güvenlik konusunda uzmanlığa sahiptir.
     url: /learn/certifications/roles/solutions-architect
   - name: data-engineer
-    summary: Veri Mühendisleri, veri hizmetlerinin tam yýðýnýný kullanarak verilerin yönetimini, izlenmesini, güvenliðini ve gizliliðini tasarlar ve uygular.
+    summary: Data Engineers, veri hizmetlerinin tam yığınını kullanarak verilerin yönetimini, izlenmesini, güvenliğini ve gizliliğini tasarlar ve uygular.
     url: /learn/certifications/roles/data-engineer
   - name: data-scientist
-    summary: Veri Bilimcileri, iþletme problemlerini çözüm modelleri eðitmek, deðerlendirmek ve harekete geçirmek için makine öðrenme tekniklerini uygularlar. 
+    summary: Data Scientists, işletme problemlerini çözüm modelleri eğitmek, değerlendirmek ve harekete geçirmek için makine öğrenme tekniklerini uygularlar. 
     url: /learn/certifications/roles/data-scientist
   - name: ai-engineer
-    summary: YZ Mühendisleri, Microsoft YZ çözümlerini tasarlamak ve uygulamak için Biliþsel Hizmetler, Makine Öðrenimi ve Bilgi Madenciliðini kullanýr.
+    summary: AI Engineers, Microsoft AI çözümlerini tasarlamak ve uygulamak için Bilişsel Hizmetler, Makine Öğrenimi ve Bilgi Madenciliğini kullanır.
     url: /learn/certifications/roles/ai-engineer
   - name: devops-engineer
-    summary: Geliþtirme Mühendisleri, son kullanýcý ihtiyaçlarýný ve iþ hedeflerini karþýlayan deðerli ürün ve hizmetleri sürekli sunmak için insanlarý, süreci ve teknolojileri birleþtirir.
+    summary: DevOps Engineers, son kullanıcı ihtiyaçlarını ve iş hedeflerini karşılayan değerli ürün ve hizmetleri sürekli sunmak için insanları, süreci ve teknolojileri birleştirir.
     url: /learn/certifications/roles/devops-engineer
   - name: security-engineer
-    summary: Güvenlik Mühendisleri, güvenlik denetimleri ve tehdit korumasý uygular, kimlik ve eriþimi yönetir ve verileri, uygulamalarý ve aðlarý korur.
+    summary: Security Engineers, güvenlik denetimleri ve tehdit koruması uygular, kimlik ve erişimi yönetir ve verileri, uygulamaları ve ağları korur.
     url: /learn/certifications/roles/security-engineer
   - name: functional-consultant
-    summary: Fonksiyonel Danýþmanlar, müþteri ihtiyaçlarýný öngörmek ve planlamak için Microsoft Dynamics 365'ten yararlanýr.
+    summary: Functional Consultants, müşteri ihtiyaçlarını öngörmek ve planlamak için Microsoft Dynamics 365'ten yararlanır.
     url: /learn/certifications/roles/functional-consultant
 
 
 certificationsSection:
-  title: Microsoft Sertifikalý Olun
-  summary: "Microsoft'un, birçok teknik iþ rolü için sertifika yollarý vardýr. Bu sertifikalarýn her biri, sertifika kazanmak için bir dizi sýnavý geçmekten oluþur."
+  title: Microsoft Certified Olun
+  summary: "Microsoft’un, birçok teknik iş rolü için sertifika yolları vardır. Bu sertifikaların her biri, sertifika kazanmak için bir dizi sınavı geçmekten oluşur."
   tiers:
     - title: Temel sertifikalar
-      summary: Önerilen baþlangýç. Teknolojiye yeni baþlayan veya kariyer deðiþikliði düþünen bireyler için idealdir.
+      summary: Önerilen başlangıç. Teknolojiye yeni başlayan veya kariyer değişikliği düşünen bireyler için idealdir.
       certifications:
         - uid: certification.azure-fundamentals
         - uid: certification.microsoft-365-fundamentals
         - uid: certification.power-platform-fundamentals
       browseLink:
-        text: Temel sertifikalara göz atýn
+        text: Temel sertifikalara göz atın
         url: /learn/certifications/browse?levels=beginner&term=fundamentals 
-    - title: Rol tabanlý sertifikalar
-      summary: Deðerli iþ rolü becerilerini öðrenmeye baþlamak için rol tabanlý bir sertifika seçin.
+    - title: Rol tabanlı sertifikalar
+      summary: Değerli iş rolü becerilerini öğrenmeye başlamak için rol tabanlı bir sertifika seçin.
       certifications:
         - uid: certification.azure-developer
         - uid: certification.power-apps-and-d365-developer-associate
         - uid: certification.d365-functional-consultant-sales
       browseLink:
-        text: Rol tabanlý sertifikalara göz at
+        text: Rol tabanlı sertifikalara göz at
         url: /learn/certifications/browse?resource_type=certification
     - title: Ek sertifikalar
-      summary: Özellikle Microsoft Sertifikalý Eðitimci ve Microsoft Office teknik sertifikalarýný keþfedin.
+      summary: Özellikle Microsoft Certified Educator ve Microsoft Office teknik sertifikalarını keşfedin.
       certifications:
         - uid: certification.azure-for-sap-workloads-specialty
         - uid: certification.microsoft-certified-educator
         - uid: certification.mos-word-expert-2019
       browseLink:
-        text: Ek sertifikalara göz atýn
+        text: Ek sertifikalara göz atın
         url: /learn/certifications/browse?resource_type=certification
 
 trainingSection:
-  title: Sertifika hazýrlama þekli
-  summary: Microsoft, herkesin farklý öðrenme önceliðine sahip olduðunu anlýyor, böylece sertifika yolculuðunuz boyunca sertifika ve eðitim seçenekleri saðlýyoruz.
+  title: Sertifika hazırlama şekli
+  summary: Microsoft, herkesin farklı öğrenme önceliğine sahip olduğunu anlıyor, böylece sertifika yolculuğunuz boyunca sertifika ve eğitim seçenekleri sağlıyoruz.
   items:
   - image:
-      alt: Microsoft Surface’e bakan bir kadýn
+      alt: Microsoft Surface’e bakan bir kadın
       src: /learn/certifications/images/image-working-lady-laptop.jpg
-    title: Hazýrlanmak için ücretsiz öðrenme yollarý
-    summary: Microsoft Learn ile herkes çekirdek kavramlarý kendi hýzýnda ve programýnda öðrenebilir. Bu, temel bir görevi öðrenmek için tek bir modül olabilecei gibi bir konuyu tüm yönleriyle öðrenmek için ilgili modüllerin bir koleksiyonu olabilir.
+    title: Hazırlanmak için ücretsiz öğrenme yolları
+    summary: Microsoft Learn ile herkes çekirdek kavramları kendi hızında ve programında öğrenebilir. Bu, temel bir görevi öğrenmek için tek bir modül olabilecei gibi bir konuyu tüm yönleriyle öğrenmek için ilgili modüllerin bir koleksiyonu olabilir.
     browseLinks:
-    - text: Tüm öðrenme yollarýna göz atýn
+    - text: Tüm öğrenme yollarına göz atın
       url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
   - image:
-      alt: Bir masanýn etrafýnda oturan dört kiþiye sunum yapan adam 
+      alt: Bir masanın etrafında oturan dört kişiye sunum yapan adam 
       src: /learn/certifications/images/image-working-group.jpg
-    title: Eðitmen liderliðindeki eðitim ile hazýrlanýn
-    summary: Microsoft Öðrenim Ortaklarý, eðitim hedeflerinize ulaþmanýzý saðlayan, öðrenme gereksinimlerinize uygun geniþ çözümler sunar. Microsoft Sertifikalý Eðitmenler sýký eðitimi tamamlamýþ ve sýký teknik sertifika gereksinimlerini karþýlamýþtýr.
+    title: Eğitmen liderliğindeki eğitim ile hazırlanın
+    summary: Microsoft Learning Partners, eğitim hedeflerinize ulaşmanızı sağlayan, öğrenme gereksinimlerinize uygun geniş çözümler sunar. Microsoft Certified Trainers sıkı eğitimi tamamlamış ve sıkı teknik sertifika gereksinimlerini karşılamıştır.
     browseLinks:
-    - text: Eðitmen liderliðindeki tüm eðitimlere göz atýn
+    - text: Eğitmen liderliğindeki tüm eğitimlere göz atın
       url: /learn/certifications/courses/browse/
 
 resourcesSection:
-  title: Öðrenme kaynaklarý
+  title: Öğrenme kaynakları
   items:
-    - title: Bir Microsoft Öðrenim Ortaðý bulun
-      summary: Dünya çapýndaki iþ ortaðý aðýmýz, Microsoft teknolojilerinde esnek, çözüm tabanlý, özelleþtirilmiþ eðitim sunar.
-      url: https://www.microsoft.com/learning/partners.aspx
-    - title: Sertifika ve sýnav desteði
-      summary: Destek forumlarý aracýlýðýyla yardým alýn. Bir forum moderatörü Pazartesi-Cuma bir iþ günü içinde yanýt verecektir.
+    - title: Bir Microsoft Learning Partner bulun
+      summary: Dünya çapındaki iş ortağı ağımız, Microsoft teknolojilerinde esnek, çözüm tabanlı, özelleştirilmiş eğitim sunar.
+      url: https://www.microsoft.com/en-us/learning/partners.aspx
+    - title: Sertifika ve sınav desteği
+      summary: Destek forumları aracılığıyla yardım alın. Bir forum moderatörü Pazartesi-Cuma bir iş günü içinde yanıt verecektir.
       url: /learn/certifications/help
-    - title: Tüm sertifikalara ve sýnavlara göz atýn
-      summary: Kariyerinizi bir sonraki seviyeye taþýmak için tüm sertifikalarý keþfedin.
+    - title: Tüm sertifikalara ve sınavlara göz atın
+      summary: Kariyerinizi bir sonraki seviyeye taşımak için tüm sertifikaları keşfedin.
       url: /learn/certifications/browse
 
 statisticsSection:
-  title: Neden sertifikalý olmalý
-  summary: Sertifikalar, endüstri tarafýndan tanýnan rol tabanlý becerileri kanýtlayarak size profesyonel bir avantaj saðlar.
+  title: Neden sertifikalı olmalı
+  summary: Sertifikalar, endüstri tarafından tanınan rol tabanlı becerileri kanıtlayarak size profesyonel bir avantaj sağlar.
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
-    iframeTitle: Microsoft Sertifikalarý
-    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
-    title: Microsoft Sertifikalarýnýn Faydalarý
-    summary: Bir sertifika aldýktan sonra Microsoft Sertifikalý teknoloji uzmanlarýnýn %23'ü %20 maaþ artýþý aldýklarýný bildirdi. Dahasý, hýzla yükselmelerini saðlayarak sertifikalý çalýþanlara genellikle gruplarý denetleme görevi verilir. 2017 Pearson VUE Sertifika Deðeri resmi raporu.
+    iframeTitle: Microsoft Certifications
+    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    title: Microsoft Certifications Faydaları
+    summary: Bir sertifika aldıktan sonra Microsoft Sertifikalı teknoloji uzmanlarının %23'ü %20 maaş artışı aldıklarını bildirdi. Dahası, hızla yükselmelerini sağlayarak sertifikalı çalışanlara genellikle grupları denetleme görevi verilir. 2017 Pearson VUE Sertifika Değeri resmi raporu.
   items:
     - title: 38%
-      summary: 2021 yýlý itibariyle BT pozisyonlarý bulutla ilgili olacaktýr.
-      note: IDC/Microsoft, Bulut Becerileri ve Örgütsel Etki* Bulut Becerileri BT Uzmanlarýnýn Kariyerlerini Nasýl Hýzlandýrýr, Mayýs 2017
+      summary: 2021 yılı itibariyle BT pozisyonları bulutla ilgili olacaktır.
+      note: IDC/Microsoft, Bulut Becerileri ve Örgütsel Etki* Bulut Becerileri BT Uzmanlarının Kariyerlerini Nasıl Hızlandırır, Mayıs 2017
     - title: 35%
-      summary: BT uzmanlarý, bulut daðýtýmlarý sýrasýnda muadillerine göre diðer teknolojilerin daðýtýmlarýndan daha etkili olduklarýný söylüyorlar.
-      note: IDC/Microsoft, Bulut Becerileri ve Örgütsel Etki* Bulut Becerileri BT Uzmanlarýnýn Kariyerlerini Nasýl Hýzlandýrýr, Mayýs 2017
+      summary: BT uzmanları, bulut dağıtımları sırasında muadillerine göre diğer teknolojilerin dağıtımlarından daha etkili olduklarını söylüyorlar.
+      note: IDC/Microsoft, Bulut Becerileri ve Örgütsel Etki* Bulut Becerileri BT Uzmanlarının Kariyerlerini Nasıl Hızlandırır, Mayıs 2017
     - title: 36.9%
-      summary: BT uzmanlarý sertifikasyonunun, karmaþýk görevleri daha güvenli bir þekilde gerçekleþtirmelerine yardýmcý olduðunu iddia ettiler.
-      note: Pearson VUE, BT Sertifikasyon Deðeri Anketi, Ocak 2017
+      summary: BT uzmanları sertifikasyonunun, karmaşık görevleri daha güvenli bir şekilde gerçekleştirmelerine yardımcı olduğunu iddia ettiler.
+      note: Pearson VUE, BT Sertifikasyon Değeri Anketi, Ocak 2017
